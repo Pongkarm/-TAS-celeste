@@ -5,11 +5,13 @@ Set,SuperDashing,true
 
 #Start
   69
+
 #lvl_a_00
    4,L,D,X
    1,L,J
    4,L
   40
+
 #lvl_a_001
    3,L
    1,L,J
@@ -45,6 +47,7 @@ Set,SuperDashing,true
    5,R,U,X
    3,U
   40
+
 #lvl_a_01
    3,U
    3,R
@@ -56,6 +59,7 @@ Set,SuperDashing,true
    3,U
    1,U
   40
+
 #lvl_a_02
    4,U
    4,R
@@ -64,6 +68,7 @@ Set,SuperDashing,true
    7,U
    9,R
   40
+
 #lvl_a_03
    2,R
    8,R,U,X
@@ -71,6 +76,7 @@ Set,SuperDashing,true
    2
   15,R,D
   40
+
 #lvl_a_06
    5,R,D
    3,R,J
@@ -84,6 +90,7 @@ Set,SuperDashing,true
    1,R,J
    5,R,U,X
   40
+
 #lvl_a_07
    2,U
    1,R,U
@@ -100,6 +107,7 @@ Set,SuperDashing,true
   25,U,X
    2,R,J
   40
+
 #lvl_a_08
   11,R,J
   20,R,U,X
@@ -124,6 +132,7 @@ Set,SuperDashing,true
    5,R,K,G
    8,R,J,G
   40
+
 #lvl_a_09
    5,R,U,X
 #  15,U
@@ -139,7 +148,6 @@ Set,SuperDashing,true
   21,R,U
   15,U,X
   11,R
-
    5,R,X
    5,R
    9,R,D
@@ -152,8 +160,8 @@ Set,SuperDashing,true
    5,R,D,X
    2,R,U
   40
-#lvl_a_11
 
+#lvl_a_11
    7,R,U
    2,R
    1
@@ -184,6 +192,7 @@ Set,SuperDashing,true
   10,R
    5,R,D,X
   40
+
 #lvl_a_12
    3,U
   10
@@ -200,6 +209,7 @@ Set,SuperDashing,true
    5,R,D,X
    8
   40
+
 #lvl_a_13
    2,R,D
    5,R,U,X
@@ -229,8 +239,8 @@ Set,SuperDashing,true
    5,R,D,X
    1,U
   40
-#lvl_b_01
 
+#lvl_b_01
    3,U
    1,R,U
    6,R
@@ -256,6 +266,7 @@ Set,SuperDashing,true
    1,R,J
    5,R,U,X
   40
+
 #lvl_b_02
    2,U
    3,U
@@ -281,6 +292,7 @@ Set,SuperDashing,true
   16,U
   14,U,X
   40
+
 #lvl_b_13
   11,L
   15,R,Z
@@ -313,6 +325,7 @@ Set,SuperDashing,true
    4,U
    2,R,U
   40
+
 #lvl_b_14
    2,U
    3,R
@@ -354,6 +367,7 @@ Set,SuperDashing,true
    1,R,J
   10,R,D,X
   40
+
 #lvl_c_00
    7,R,D
    5,R,D,X
@@ -378,6 +392,7 @@ Set,SuperDashing,true
    5,R,D,X
    8
   40
+
 #lvl_c_01
    2,R,D
    5,R,D,X
@@ -392,6 +407,7 @@ Set,SuperDashing,true
    4,U
    2,R,U
   40
+
 #lvl_c_02
    3,U
    5,R
@@ -420,6 +436,7 @@ Set,SuperDashing,true
    5
    4,R,D
   40
+
 #lvl_c_04
    1
    6,R,U,X
@@ -438,6 +455,7 @@ Set,SuperDashing,true
    9
    1,R,D
   40
+
 #lvl_c_05
    1,R,D
    5,R,D,X
@@ -455,6 +473,7 @@ Set,SuperDashing,true
    4,U
    4,L,U
   40
+
 #lvl_c_06
   11,L
   15,L,Z
@@ -485,6 +504,7 @@ Set,SuperDashing,true
    2
    6,R,U
   40
+
 #lvl_c_07
    1,R,U
    5,R,U,X
@@ -520,6 +540,7 @@ Set,SuperDashing,true
    5,R,D,X
    1,U
   40
+
 #lvl_c_08
    5,R,U
    3,R
@@ -542,6 +563,7 @@ Set,SuperDashing,true
    5,L,D,X
    5,L
   40
+
 #lvl_c_09
    3
    2,L,D
@@ -571,6 +593,7 @@ Set,SuperDashing,true
    9,L,U
    6,L,J,G
   40
+
 #lvl_c_12
    3
    3,L,K,G
@@ -602,6 +625,7 @@ Set,SuperDashing,true
    1,R,J
    5,R,D,X
   40
+
 #lvl_d_01
   10,U
    3,R,U
@@ -617,6 +641,7 @@ Set,SuperDashing,true
    5,R,D,X
    1,U
   40
+
 #lvl_d_02
    5,U
    4,R,U
@@ -637,6 +662,7 @@ Set,SuperDashing,true
    5,R,D,X
    2,R,D
   40
+
 #lvl_d_03
    6
    2
@@ -661,6 +687,7 @@ Set,SuperDashing,true
    5,R,D,X
    2,U
   40
+
 #lvl_d_04
    8,R,D
    5,R,U,X
@@ -719,6 +746,7 @@ Set,SuperDashing,true
    5,R,D,X
    2,U
   40
+
 #lvl_d_05
   12,U
    2,U
@@ -746,6 +774,7 @@ Set,SuperDashing,true
    5,R,D,X
    7,R,D
   40
+
 #lvl_d_06
    3,R,D
    5,R,D,X
@@ -785,6 +814,7 @@ Set,SuperDashing,true
    1,R,J,G
   11,R
   40
+
 #lvl_d_07
    3,R,J
    5,R,U,X
@@ -834,6 +864,7 @@ Set,SuperDashing,true
    9
    3,R,J
   40
+
 #lvl_d_08
    3,R
   10,R,U,X
@@ -862,6 +893,7 @@ Set,SuperDashing,true
    1,R,J
    5,R,U,X
   40
+
 #lvl_d_09
    4
    5,U
@@ -910,6 +942,7 @@ Set,SuperDashing,true
    5,R,D,X
    5,R,U
   40
+
 #lvl_d_10
    2,R,U
    2,R
@@ -1022,4 +1055,6 @@ Set,SuperDashing,true
    5
    1,R
  110
+
 #1:41.796(5988)
+ChapterTime: 0:21.522(1266)

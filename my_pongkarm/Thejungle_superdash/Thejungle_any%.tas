@@ -1,19 +1,38 @@
-Set, SuperDashing, true
+
    1,J
- 100
-read ITJ-0 Start
+   1
+read Thejungle0_superdash Start
 #Prologue
 Unsafe
- 175
+ 164
+   1,J
+  35
+#Prologue
+ 120
    1,J
   21
    1,J
   46
-read Thejungle1_superdash_any% Start
- 600
-  17
+read Thejungle1_superdash Start
+unsafe
+ 164
+   1,J
+  83
+   1,S
+ 172
+#control
    1,J
   21
    1,J
   46
-read Thejungle2_superdash_any% Start
+read Thejungle2_superdash Start
+ 164
+   1,J
+  83
+   1,S
+ 172
+#control
+   1,J
+  21
+   1,J
+  46
