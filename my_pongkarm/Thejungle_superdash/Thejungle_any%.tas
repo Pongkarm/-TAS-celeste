@@ -1,6 +1,14 @@
-
+Unsafe
+   1,D
+   1,F,180
+   1,D
    1,J
-   1
+   1,U
+   1,F,0
+   1,U
+# begin
+   1,J
+   5
 read Thejungle0_superdash Start
 #Prologue
 Unsafe
@@ -31,8 +39,19 @@ read Thejungle2_superdash Start
   83
    1,S
  172
-#control
+
    1,J
   21
    1,J
   46
+read Thejungle3_superdash Start
+# 164
+#   1,J
+#  83
+#   1,S
+# 172
+
+#   1,J
+#  21
+#   1,J
+#  46
