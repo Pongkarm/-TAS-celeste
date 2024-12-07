@@ -466,7 +466,7 @@ Set,SuperDashing,true
 
 console, load, Into The Jungle/ch5, b_01
    1
-
+***
 #reenter
 #lvl_b_01
   36
@@ -475,5 +475,9 @@ console, load, Into The Jungle/ch5, b_01
   14,U,X
    1,L
   40
+
+#lvl_b_02
+  11,R,J
+
 
 ChapterTime: 1:43.020(6060)
