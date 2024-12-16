@@ -459,25 +459,6 @@ Set,SuperDashing,true
   17,R,K,G
   18,R
   14,U,X
-#0:43.112(2536)
-   1
-
-#exit
-
-console, load, Into The Jungle/ch5, b_01
-   1
-***
-#reenter
-#lvl_b_01
-  36
-   5,L,J
-   5,R,J
-  14,U,X
-   1,L
-  40
-
-#lvl_b_02
-  11,R,J
 
 
 ChapterTime: 1:43.020(6060)
