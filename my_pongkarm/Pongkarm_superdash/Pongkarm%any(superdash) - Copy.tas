@@ -507,7 +507,7 @@ Set,SuperDashing,true
    3,U
   15,R
    6,R,Z
-   
+
   40
 #lvl_a-09
    3,R,J
@@ -542,7 +542,7 @@ Set,SuperDashing,true
    5,R,D,X
    2
    1,D
-StunPause 
+StunPause
    6,D
    6
    8,D
@@ -839,7 +839,7 @@ EndStunPause
 #  10,R
 #  55,R
 #   9,L,D,Z
-# 11302 1208 
+# 11302 1208
   11,R,J
    8,L
    6
@@ -874,7 +874,7 @@ EndStunPause
    7,R,U
   21,R
    2,R,J
-  
+
    8,U,X
   16,L
   12,L,J,G
@@ -978,7 +978,7 @@ EndStunPause
    5,R,D,X
    3,R,U
   40
-   
+
 #lvl_a-22
    2,U
    1,U
@@ -1136,7 +1136,7 @@ EndStunPause
   18,U
    9,R
   22,D
-  
+
 
 
 
