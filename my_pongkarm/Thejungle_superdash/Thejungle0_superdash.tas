@@ -317,9 +317,9 @@ Endrepeat
    1,R
    1
    6,R
-   2,R,J,G
-   2,R
-   9,R,J,G
+   4,R,J,G
+   1,R,K,G
+   7,R
 #  18,U
 #  26,L,J,G
 #   1,K
@@ -335,12 +335,11 @@ Endrepeat
 #  10,L,D,X
 # 118
   40
-
 #lvl_a_07
-  13,R,D,X
+  12,R,D,X
    1,S,N
    1,D,J
   18
 
 
-ChapterTime: 0:21.488(1264)
+ChapterTime: 0:21.454(1262)
