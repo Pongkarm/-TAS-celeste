@@ -56,58 +56,56 @@ Set,SuperDashing,true
    1,R
    9,R,D
    5,R,D,X
-   3
+   2,R,D
   40
 
 #lvl_a_04
-   7,R
+   8,R
    5,R,X
-   9,R
-   3
-   1,R,D
+   8,R
+   2,R,D
    5,R,U,X
-   2,U
-   1
+   1,U
   40
 
 #lvl_a_06
-   1
+   1,U
    1,R
-   3,R,U
+   2
    2,U
    1,R,D
-   6,R
+   2
+***
+   3,R
+   4,U
    5,R,U,X
-   1,U
+   2,U
    1
    1,U
-   5,R,D
-   2,R,D
-   5,R,D,X
-   1,U
+   3,R
   40
 
 #lvl_a_08
-   7,U
-   1,R
+   3
+   5,R,U,X
+   5,U
    1,R,D
-   4,R,D
-   1,R,J,G
-   2,R
+   1
+   8,R,D
    5,R,D,X
-   1,U
   40
 
 #lvl_a_09
    5,U
-   4,R
-   2,R,U
-   1
+   2,R
    3,R,U
+   2,R
+   4
   40
 
 #lvl_a_11
-  11,R
+   5,R
+   6
   10,R,Z
    2,R,J
    1,R,K,G
@@ -355,11 +353,9 @@ Set,SuperDashing,true
 #lvl_c_02
    5,R,U,X
   18,U
-  15,L,J
-   8,L,K,G
-  31,L
-   2,L,J,G
-   8,L
+  16,L,J
+  10,L,K,G
+  30,L
    5,L,D,X
    1,D,J
    8,L
@@ -708,14 +704,6 @@ Set,SuperDashing,true
    6,L
    1,R,D
    4,R,D
-#   5,L,D
-#   9,L,D,X
-#   4,L,J
-#   4,L,K,G
-#  18,L
-#   5,L,J
-#  11,L,Z
-#  10,L,D
   13,L,Z
    1,L,J
    2,L,K,G
@@ -848,12 +836,12 @@ EndRepeat
    1,R,D
    4,R
    6,R
-   1,R,J
    5,R,D,X
-   3
-   7,D
-   8,R,U,X
-  10,R
+   4
+   6,D
+   5,R,D,X
+   3,U
+   4,R
  111,R,D
 
-ChapterTime: 1:17.826(4578)
+ChapterTime: 1:17.588(4564)

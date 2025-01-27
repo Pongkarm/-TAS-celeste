@@ -464,37 +464,36 @@ Set,SuperDashing,true
   10
   23,R
    3,R,J,G
-   6,R
-   1,L
-   4,L,Z
-   4,L
-   1,R,J
-   7,R
+   5,R
+   2,L
+   5,L,D,Z
+   1,L,D
+   1
+   1,L,U
+   1,J,F,160
+   8,R
    1,R,J
    5,R,D,X
-   1,R,D
   40
 
 #lvl_b_12
    3,R,D
   14
-  22,R
-   7,U,X
-   7,L,J
-  21,L
-  19,R
-   5,D
-   1
+   6,R
+   5,U,X
+   1,L,J
+  26,L
+   6,R
+  12,R
+   6,L
+   1,D
    4,R,J,G
-  10,R,D
+  16,R
    2,L
-   7,R,D
-   2,R
-   1
-   1,R
-   2,L,D
-   1
-   1,L
+   5,R
+   2
+   2,L
+
 # Pos: 4069.12, 1807.53
    9,L,Z
    1,R,J
@@ -507,17 +506,16 @@ Set,SuperDashing,true
    5,R,D
    1,R,J
    1,R
-   5
+   6
    5,R,U,Z
-   1,R
    1,R,J,G
    3,R
-  11
+  10
    5,R,D,X
    1,R,J
-   8,R
-   1,R,J
    7,R
+   1,R,J
+   9,R
   40
 
 #lvl_c_01
@@ -599,7 +597,7 @@ EndRepeat
    5,R,D,X
   40
 
-#lvl_c_10 (0)
+#lvl_c_10 (1)
    2,R,U
    1
    6,R,D
@@ -630,7 +628,7 @@ EndRepeat
    5,R,D,X
   40
 
-#lvl_c_10 (1)
+#lvl_c_10 (2)
    2,R,D
    8
    5,R,U,X
@@ -1031,4 +1029,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 1:41.558(5974)
+ChapterTime: 1:41.235(5955)
