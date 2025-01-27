@@ -1,4 +1,4 @@
-                     # Glyph
+# Glyph
 # https://gamebanana.com/mods/150453
 
 #console load Pongkarm/1-example/Freya101
@@ -10,7 +10,7 @@ Unsafe
   46
 Start
 #room a-01
-   
+
  189
    4,D,X
   10,R
@@ -41,7 +41,7 @@ Start
   20,R,J
   15,R,U,X
   40
- 
+
 #room a-02
 
 #str1
@@ -163,7 +163,7 @@ Start
    8,R,J,G
   40
 
-  #room a04
+#room a04
   20,R,J
   15,R,X
    2
@@ -185,7 +185,7 @@ Start
   87
   11,U,X
   40
- #room a04(2)
+#room a04(2)
    4,U,X
    7
   15,U,X
@@ -397,7 +397,7 @@ Start
    3,R
    3,L
    4
- 
+
   20,R,J
   20,R,U,X
   10,R,J
@@ -408,7 +408,7 @@ Start
   40
 #room a09
 #str4
-  
+
   10,R,J
   18,U,X
    3,L,J
@@ -440,7 +440,7 @@ Start
    5,L
    8,R,U,X
   40
- #room a10 (2)
+#room a10 (2)
 #str5
 
    7,R,J
@@ -450,7 +450,7 @@ Start
   30,R
    6,R,U,Z
   40
- #room a10 (3)
+#room a10 (3)
 #str6
 
   18,R,J
@@ -478,7 +478,7 @@ EndStunPause
    6,R,D
    6,R,D,Z
   40
- #room a11 
+#room a11
 #str7
 
    9,R
@@ -520,7 +520,7 @@ EndStunPause
   15,D,X
   10,R,J
   40
- #room a12 
+#room a12
   61,D
   10,R,Z
    2,R,J
@@ -565,7 +565,7 @@ EndStunPause
    9,U,C
    7,R,J
   40
- #room a12 (4)
+#room a12 (4)
 #str9
   17,U,X
   17,R,U,C
@@ -594,7 +594,7 @@ EndStunPause
    2,L,J,G
    3,L,K,G
   40
- #room a12-1 (5)
+#room a12-1 (5)
   16,R,J
   12,L,K
    4,R,J
@@ -620,19 +620,19 @@ EndStunPause
    3,L,K,G
    4,L,J,G
   40
- #room a12-1 (6)
+#room a12-1 (6)
 
    4,L
   15,L,D,Z
    8,L,D
   44
- #room a12 (5)
+#room a12 (5)
   13,L,D
   15,L,U,X
   10,L,J
   13,R,K
   40
-  
+
   13,R,J
   18,U,X
    8,R,J
@@ -642,11 +642,11 @@ EndStunPause
 
    7,R
    1,R,J
-# 8325 895 
+# 8325 895
    7,R,J
   13,U,X
   40
- #room a12-1-1-4 
+#room a12-1-1-4
 #str12
    5
    6
@@ -685,7 +685,7 @@ EndStunPause
   40
   10,D
   15,D,X
-   
+
   40
   13,R
   15,R,U,X
@@ -708,7 +708,7 @@ EndStunPause
   15,L,J
    5,L
   40
- #room a12-1-3-1 
+#room a12-1-3-1
 #str11
 
    5,R
@@ -779,11 +779,11 @@ EndStunPause
   15,D,X
   22,R,D
   40
- #room a12-1-3 (2)
+#room a12-1-3 (2)
   34,R,D
   11,R,D,X
   40
- #room a12-1 (8)
+#room a12-1 (8)
    6,R,D
   15,R,D,X
   10,R,D
@@ -850,7 +850,7 @@ EndStunPause
    1,R,K,G
    4,R,K,G
    4,R
-  
+
   40
 
 
@@ -858,7 +858,7 @@ EndStunPause
 #room a13
 #Read,Untitled-5.tas,Start
 #room a13
-   
+
 #room a14
 #str13
    3
@@ -973,7 +973,7 @@ EndStunPause
 #   1,S
 #   1,D,J
 #  69,O
-  
+
    1,L,J,G
   17,L,K,G
   20,U,X
@@ -1092,7 +1092,7 @@ EndStunPause
 #  32,R,J
 #  29,R,U,Z
 #  29,R,D
-   #81 11302 1208
+#81 11302 1208
    4,R,Z
    5,R,J
   12,J
@@ -1487,7 +1487,7 @@ SaveAndQuitReenter
    6,R
   40
 
-  
+
 #room a29
    3,R,J
    6,R
@@ -1579,7 +1579,7 @@ SaveAndQuitReenter
    5,R,D
   40
 #room a32
-  #str22
+#str22
    5,L,D
   12,R,D,X
    7,R,J

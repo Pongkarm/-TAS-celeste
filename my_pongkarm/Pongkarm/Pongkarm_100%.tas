@@ -1,4 +1,4 @@
-                     # Glyph
+# Glyph
 # https://gamebanana.com/mods/150453
 
 console load Pongkarm/1-example/Freya101
@@ -10,7 +10,7 @@ console load Pongkarm/1-example/Freya101
 #   1,J
 #Start
 #room a-01
-   
+
  189
    4,D,X
   10,R
@@ -41,7 +41,7 @@ console load Pongkarm/1-example/Freya101
   20,R,J
   15,R,U,X
   40
- 
+
 #room a-02
 
 #str1
@@ -163,7 +163,7 @@ console load Pongkarm/1-example/Freya101
    8,R,J,G
   40
 
-  #room a04
+#room a04
   20,R,J
   15,R,X
    2
@@ -185,7 +185,7 @@ console load Pongkarm/1-example/Freya101
   87
   11,U,X
   40
- #room a04(2)
+#room a04(2)
    4,U,X
    7
   15,U,X
@@ -389,7 +389,7 @@ console load Pongkarm/1-example/Freya101
    3,R
    3,L
    4
- 
+
   20,R,J
   20,R,U,X
   10,R,J
@@ -400,7 +400,7 @@ console load Pongkarm/1-example/Freya101
   40
 #room a09
 #str4
-  
+
   10,R,J
   18,U,X
    3,L,J
@@ -433,7 +433,7 @@ console load Pongkarm/1-example/Freya101
    5,L
    8,R,U,X
   40
- #room a10 (2)
+#room a10 (2)
 #str5
 
    7,R,J
@@ -443,7 +443,7 @@ console load Pongkarm/1-example/Freya101
   30,R
    6,R,U,Z
   40
- #room a10 (3)
+#room a10 (3)
 #str6
 
   18,R,J
@@ -470,7 +470,7 @@ EndStunPause
    6,R,D
    6,R,D,Z
   40
- #room a11 
+#room a11
 #str7
 ***
    9,R
@@ -512,18 +512,18 @@ EndStunPause
   15,D,X
   10,R,J
   40
- #room a12 
+#room a12
 
   15,R,U,X
   37,U,C
- #room a12-1
+#room a12-1
   58
   10,U,Z
   20,L
   50
    5,L,Z
   40
- #room a12-1-1
+#room a12-1-1
    3,L,Z
    2,L,J
    1,L
@@ -543,11 +543,11 @@ EndStunPause
   69,O
    6,R,J
   40
- #room a12-1(2)
+#room a12-1(2)
    9,R,D,Z
   21,R,D
   40
- #room a12 (2)
+#room a12 (2)
    2,R,D
    8,R
   26,R,U,Z
@@ -615,7 +615,7 @@ EndStunPause
   10,R,D,Z
    8,L,D,X
   40
- #room a12-2 
+#room a12-2
 #str8
   10
   13,L,Z
@@ -648,7 +648,7 @@ EndStunPause
    9,U,C
    7,R,J
   40
- #room a12 (3)
+#room a12 (3)
 #str9
   17,U,X
   17,R,U,C
@@ -677,7 +677,7 @@ EndStunPause
    2,L,J,G
    3,L,K,G
   40
- #room a12-1 (5)
+#room a12-1 (5)
   16,R,J
   12,L,K
    4,R,J
@@ -703,12 +703,12 @@ EndStunPause
    3,L,K,G
    4,L,J,G
   40
- #room a12-1 (6)
+#room a12-1 (6)
    4,L
   15,D,Z
    8,L,D
   40
- #room a12 (5)
+#room a12 (5)
   20,L,D
   13,L,D,Z
    1,L,J
@@ -724,7 +724,7 @@ EndStunPause
   15,L,D
   59,U,X
   40
- #room a12-1 (7)
+#room a12-1 (7)
   32,U,X
   15,L,U,C
   19,L,J
@@ -734,7 +734,7 @@ EndStunPause
    5,J
    8,L,U,X
   40
- #room a12-1-3 
+#room a12-1-3
    1,L,J,G
    4,L
    5,R
@@ -747,7 +747,7 @@ EndStunPause
 
    4,L
   40
- #room a12-1-3-1 
+#room a12-1-3-1
 #str11
    9,L
 # 7984 735
@@ -862,17 +862,17 @@ EndStunPause
   90
   41,R,D
   40
- #room a12-1-3 (2)
+#room a12-1-3 (2)
   34,R,D
   11,R,D,X
   40
- #room a12-1 (8)
+#room a12-1 (8)
    6,R,D
   15,R,D,X
   10,R,D
   23,D
   40
- #room a12 (6)
+#room a12 (6)
 #StunPause
   15,R
   15,R,U,X
@@ -880,7 +880,7 @@ EndStunPause
   10,L,K,G
    2
   40
- #room a12-1 (9)
+#room a12-1 (9)
   18,R,J
   19,U,X
   20,L,J
@@ -890,7 +890,7 @@ EndStunPause
    8,U,X
    7,L,J
   40
- #room a12-1-3 (3)
+#room a12-1-3 (3)
   11,L
    8,U,X
   39,L,J
@@ -898,7 +898,7 @@ EndStunPause
   15,U,X
    9,R,J
   40
- #room a12-1-5 
+#room a12-1-5
   23,R,J
    1,K,G
    4,R,K
@@ -922,16 +922,16 @@ EndStunPause
   69,O
    2,R,J
    8,R,D,X
- #room a12-1-3 (4)
+#room a12-1-3 (4)
   40
   25,R,D
   15,R,D,X
   15,R,D
   40
- #room a12-1 (8)
+#room a12-1 (8)
    7,R,U,X
   40
- #room a12-1-3 (5)
+#room a12-1-3 (5)
    1,S
    1,D,J
   69,O
@@ -948,16 +948,16 @@ EndStunPause
   18,L,D
    6,D,X
   40
- #room a12-1 (9)
+#room a12-1 (9)
   45,R,D
   40
- #room a12-1 (7)
+#room a12-1 (7)
   13,R
   15,R,U,X
    9,R,J,G
    8,L,K
   40
- #room a12-1 (10)
+#room a12-1 (10)
 
    9,L,J
    3,L,K,G
@@ -969,11 +969,11 @@ EndStunPause
    6,R,K,G
    6,R
    1,R,J
-# 8325 895 
+# 8325 895
    7,R,J
   13,U,X
   40
- #room a12-1-1-4 
+#room a12-1-1-4
 #str12
    5
    6
@@ -1002,7 +1002,7 @@ EndStunPause
    3,L,J
    8,L,D,X
   40
- #room a12-1 (11)
+#room a12-1 (11)
 
    8,L,D
   15,D,X
@@ -1199,7 +1199,7 @@ EndStunPause
 #   1,S
 #   1,D,J
 #  69,O
-  
+
    1,L,J,G
   17,L,K,G
   20,U,X
@@ -1318,7 +1318,7 @@ EndStunPause
 #  32,R,J
 #  29,R,U,Z
 #  29,R,D
-   #81 11302 1208
+#81 11302 1208
    4,R,Z
    5,R,J
   12,J
@@ -1718,7 +1718,7 @@ SaveAndQuitReenter
    6,R
   40
 
-  
+
 #room a29
    3,R,J
    6,R
@@ -1810,7 +1810,7 @@ SaveAndQuitReenter
    5,R,D
   40
 #room a32
-  #str22
+#str22
    5,L,D
   12,R,D,X
    7,R,J

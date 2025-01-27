@@ -11,7 +11,7 @@ console load Pongkarm/1-example/Freya101
 #  43
 #   1,J
 #  46
-   
+
 #Start
 #room a-01
  189
@@ -50,7 +50,7 @@ console load Pongkarm/1-example/Freya101
   12,R,Z
   40
 
- 
+
 #room a-02
    1,Z
    1,R,J
@@ -82,7 +82,7 @@ console load Pongkarm/1-example/Freya101
    3,L,K,G
    7,L
    3,L,J
-   
+
   17,U,X
    5,R,J,G
    6,R
@@ -564,9 +564,9 @@ EndStunPause
    1,R,K,G
    4,R,K,G
    4,R
-  
+
   40
- 
+
   15,R,U,X
   15,L,J
    3,L
@@ -870,7 +870,7 @@ EndStunPause
   18,U,X
    5
   10,L
-   
+
   13,L
   20,R,J
   21,R,U,X
@@ -953,7 +953,7 @@ EndStunPause
 
   12,R,U,X
    7,R,J,G
-   
+
   40
 #room a29
    1,R,J
@@ -1017,7 +1017,7 @@ EndStunPause
   13,R,D
   40
 #room a32
-  #str22
+#str22
    3,L,D
   12,R,D,X
    7,R,J
@@ -1046,7 +1046,7 @@ EndStunPause
   40
 #room a33
    9,L,J
-  
+
   14,L,U,X
    1,L,J,G
   11,L
@@ -1067,4 +1067,3 @@ EndStunPause
   50,R
    2,L,K,G
   18,R,J,G
- 
