@@ -1,7 +1,7 @@
 # Into The Jungle
 # https://gamebanana.com/mods/292719
 
-console, load, Into The Jungle/ch4
+console load "Into The Jungle/ch4"
 Set,SuperDashing,true
    1
 
@@ -249,49 +249,45 @@ Set,SuperDashing,true
    3,R,D
    1,R,D
    4,D
-   3
-   5,R,U,X
-   6,U
-   1
-   4,L,J,G
-  12,L
-   5,J
-   3,R
+   2
    5,R,X
-   2,R,U
+   5,U
    3
-   2,R,D
-  11,D
-   8,L,D
-  11,D
-   5,R,D,X
+   5,L,J,G
+  11,L
+  10,L,X
+   1,R,J
+   4,J
+   8,R
+   8,R,J
+   4,R,D
+   3,D
+  15,D,X
+   1,R,D
+   5,D
    1,L,J
-   3
-  12,L
-   1,L,J
+   5,L,D,X
+  10,L,U
    5,L,U,X
    1,L
-   4
-   1,U
-   4
-   1,L
-   2,L,U
-   5,L
+   3
+   4,U
+   2
+   1,L,U
    2,L,J,G
-   1,L,K,G
    7,L
    5,R,X
    1,L,J
    7,R
-   3,L
-   2
-   2,L
-   3,L,J
+   7,L
+   1,L,J
+   1
    5,D,X
    2,D
-  10,L
-   7,D
-   3,R,D
+  10,L,D
+   3,D
+   3
+   4,D
   43
 
 #lvl_b_04
@@ -597,7 +593,7 @@ EndRepeat
    5,R,D,X
   40
 
-#lvl_c_10 (1)
+#lvl_c_10 (0)
    2,R,U
    1
    6,R,D
@@ -628,7 +624,7 @@ EndRepeat
    5,R,D,X
   40
 
-#lvl_c_10 (2)
+#lvl_c_10 (1)
    2,R,D
    8
    5,R,U,X
@@ -1029,4 +1025,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 1:41.235(5955)
+ChapterTime: 1:41.082(5946)
