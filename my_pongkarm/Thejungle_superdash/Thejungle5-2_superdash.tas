@@ -117,7 +117,6 @@ Set, SuperDashing, true
    5,R,D
    3
    5,R,J
-
    7,K
    9,L,K
   13,R,J
@@ -464,6 +463,7 @@ Set, SuperDashing, true
   10
   11,R,J
   40
+
 #lvl_c_05
   11,L,J
   14,L,D,Z
@@ -486,42 +486,35 @@ Set, SuperDashing, true
    4,J
   30,L,J
   44,R,K
-  10,R
-   1
-   1,R,J,G
-   1,R,K,G
-   7,R,J,G
-   5,R,U,X
-   1,R,U
-   1
-   3,R
-   2
-   4,R
-   2
-   2,R,D
-   1
-   9,R,D
+   7,R,U,X
+   5,R
+   3
+   5,R
+   3,R,U
+  20,R
+   5,L,D,X
+   2,L,D
+   1,L,U
    1,R,J
+   7,R
    5,R,D,X
-   2,U
   40
 
 #lvl_c_07
-   2,R,U
-   1
-   7,U
-   6,R
+   5,U
+   3,R,U
+   1,R,D
+   1,R,U
    5,R,U,X
-   7,R
-   1
+   3,U
+   2,R
    3,R,D
+   5,R,D
    5,R,U,X
-  10,U
-   1
-   1,U
-   6,L,U
+  12,U
+   5,L,U
   36,R,J,G
-   2,L
+   1,R
   10,R,D,X
    3,L,J
   15,L
@@ -974,22 +967,22 @@ Endrepeat
    1,J
   25,R,J
    1,K
-   2,K
+   4,K
+   1,R,K
   13
    1,L
-   2
-  10,L,D,J
-  14,R,K
-  12,L,J
    3
-  16,L,J
-  10,R,K
+  10,L,D,J
+  14,R,J
+  17,R,K
    5,R,U,X
    8,U
-   9
-   1,U
-  20,R,J
-   7,L,K
+   7
+   3,L,U
+   2,L,U
+   4,U
+  19,R,J
+   8,L,K
   40
 
 #lvl_d_08
@@ -1030,11 +1023,13 @@ Endrepeat
    3,R,D
    1
    7,R,D
-  14,R,J
-  17,U,X
-  12,L,J,G
-  12,L
-   3,J
+  11,R,J
+  19,U,X
+   2,L,U
+   2,U
+  11,L,J,G
+   7,L
+   3,L,J
    7,L,Z
    1,L,Z,G
    1,R,J,G
@@ -1066,9 +1061,12 @@ Endrepeat
    1,R,U
    3,R
   13,R,D
-   9,R,J
-  17,U,X
-   4,R
+   5,R,U,X
+  10,U
+   1
+   1,U
+   2,R,U
+   1,R
   40
 
 #lvl_d_10
@@ -1372,7 +1370,6 @@ EndRepeat
    5,R,D,X
    8,R,D
   40
-
 #lvl_d_16
    4,R
    5,R,U,X
@@ -1399,7 +1396,8 @@ EndRepeat
   40
 
 #lvl_d_19
-   6,R
+   5,R
+   1,R,D
    8,R,D,X
    2,R
   40
@@ -1412,4 +1410,4 @@ EndRepeat
    1,D,J
   18
 
-#2:38.185(9305)
+#2:37.675(9275)
