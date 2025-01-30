@@ -1,0 +1,105 @@
+console load Spooooky/SentientForest/Forest
+Set,SuperDashing,true
+   1
+
+#Start
+  98
+
+#lvl_a-01
+   2,L,J
+  13,L,Z
+   2,R,J
+   5,R,D,X
+   1,R
+   1,R,D
+   3,R
+   1,R,U
+   1,S
+   1,D,J
+  34,O
+   1,R,U
+   2,R,D
+   1,R
+   1,R,J
+   5,R,D,X
+   9
+   1,R,D
+   5,R,U,X
+   1
+   1,R,U
+   1
+  10,R,D
+   1,R,U
+   1,S
+   1,D,J
+  34,O
+   5,R,D,X
+   2,R,U
+   2
+   1,R,D
+   2
+   3,R,D
+   5,R,D,X
+   1,R,D
+  40
+
+#lvl_a-02
+  12
+   5,R,D,X
+   1,R,U
+   1
+   2,R
+   2,R,D
+   2
+   1,R,U
+   1,R
+   1,R,D
+   1
+   5,R,U,X
+  40
+
+#lvl_a-03
+  10,R,U
+   7,R,D,X
+   3,R,D
+   3,R
+   1,R,D
+  40
+
+#lvl_a-04
+   1
+   1,R,U
+   5,R,D,X
+   5,R,U
+   4,R,D
+   2,R
+   3,R,U
+   1,R
+  40
+
+#lvl_a-05
+   2,R,U
+   1,R
+   5,R,D,X
+   1,R
+   1,R,D
+   1,R
+  40
+
+#lvl_a-06
+   1,K
+   1,R
+   1,R,D
+   1
+StunPause
+   1
+   1,R,D
+   1
+EndStunPause
+   5,R,U,X
+   1,R
+   1,R,U
+  14,R,D
+   1,L,J
+   5,D,X
+ 100
