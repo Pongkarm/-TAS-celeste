@@ -1,0 +1,32 @@
+unsafe
+   1,D
+   1,F,180
+   1,D
+   1,J
+   1,U
+   1,F,0
+   1,U
+   1,J
+
+  99
+  12
+Read,Setsuperdash
+
+Read, Sentient_forest, lvl_a-01
+
+  59
+   1,J
+ 196
+ 164
+   1,J
+ 108
+   1,S
+   1,X
+  20
+   1,N
+  30
+   1,R
+  14
+   1,R
+  80
+   1,L
