@@ -1,4 +1,4 @@
-RecordCount: 1537
+RecordCount: 1657
 console load Spooooky/SentientForest/Forest
 Set,SuperDashing,true
    1
@@ -1195,7 +1195,6 @@ EndStunPause
    5,U,X
   17
   43
-#***
 #lvl_c-07
   11,R,J
   12,R,U,X
@@ -1219,70 +1218,70 @@ EndStunPause
    5,R
    2
    5,R,U
-   3,R,D
+   2,R,D
+   9,R
+   5,R,U,X
+  12,U
+  17,L,U
+   8,R,D,X
+   3,D
    2,R
-   5,R,D,X
-  12,R,U
-   3
-  10,R,U
-   5,L,U,X
-   2,L
-   8,L,U
-   5,L,U,X
-   8,L
-   2,U
    1
-   8,D
-  10,R,D,X
-   8,R
-   1,R,D
+   5,R
    5,R,D,X
    8,R,U
   10,R
-   1
-   5,R,D,X
-  10,R,U
-   7,R,D
-  13,R,Z
-   4,R,D
+   3,R,D
+   7,R
+   5,R,U,Z
+   8,R
+  10,R,D
    1,R,J
-  15,R,D,X
-   5,R,D,Z
-   1
+   5,R,D,X
+   2
+   8,R,D
   40
 
 #lvl_c-08
-   3
-   6,R,D
+   5,R,D,X
+  10,R,D
    5,R,D,X
    1,D
    4,R
    1,R,D
-  12
-  18,U,X
-   7,L,J
-  25,L
+   4
+   5,R,U,X
+   1,R,U
+   1
+   1,R,U
+   1,R
+   6,U
+  27,L,J
+  10,L
    1,L,J
    1,L,K
    1,L,J
-   1,L,K
-  16,L
+   2,L,K
+   3
+  14,L
    1,L,J
    1,L,K
-   2,L,J
-  10,L,K,G
+   1,L,J
+   2,L,K
+  13,L,J,G
    5,L,U,X
    5,U
    3,L
    4,U
    1
-   4,R,U
-  11,U,X
-  19,R
+   2,L,U
+   2,R,U
+  12,U,X
+  20,R
   20,R,X
    2,R,D
    2
-   4,R
+   3,R
    5,R,D,X
   14,R,U
   11,R,D
@@ -1633,6 +1632,5 @@ EndStunPause
    2
    2,D
    1
-ChapterTime: 2:27.679(8687)
 
-#ChapterTime: 2:27.679(8687)
+ChapterTime: 2:27.237(8661)
