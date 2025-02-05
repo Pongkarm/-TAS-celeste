@@ -1,4 +1,4 @@
-RecordCount: 1657
+RecordCount: 1707
 console load Spooooky/SentientForest/Forest
 Set,SuperDashing,true
    1
@@ -256,10 +256,15 @@ EndStunPause
    6,U
    4,L,U
    5,L,X
+   7,L,U
+   2,U
+   1,L,K,G
+   1,L
+  10,U,X
    2,L,U
-   5
-  11,U
-  20,U,X
+   3,U
+   3
+   2,R,U
    4,R,K
    5,R,U,X
    2
@@ -350,32 +355,6 @@ EndStunPause
    1,R,K
    1,R,J
    1,R,K
-#   5,R,U,X
-#   1,R,U
-#   1,R
-#   6,R,D
-#   2
-#   1,R,D
-#   4
-#   1,R
-#   1
-#   5,R,D
-#   1,R,J
-#   5,R,D,X
-#   3,R,U
-#   2
-#   2,R,D
-#   1
-#   4,R,D
-#   1
-#   1,R,U
-#   2
-#   2,R,U
-#   1,R,D
-#   1,R,J
-#   5,R,D,X
-# 100,R,U
-
    1,R,J
    5,R,U,X
    1,R,U
@@ -763,55 +742,7 @@ EndStunPause
    3,R,D
   40
 
-
-
-#   5,L,D,X
-#   1
-#   1,L,D
-#   1,R,J
-#   8,R
-#   2,R,J
-#   4,R,K,G
-#   5,R,U,X
-#   1,R,U
-#   2
-#   2,R
-#   3
-#   1,R
-#   5,R,D
-#  40
-
 #lvl_b-11
-#   5,R,D,X
-#   2,R,U
-#   2
-#   3,R
-#   4
-#   2,R,D
-#   4
-#   6,R,D
-#   1,R,J
-#   7,R,D,X
-#   2
-#   4,R
-#   5
-#StunPause
-#   5,R,D
-#EndStunPause
-#   6,R,D
-#   3
-#   1,R
-#   5,R,U,X
-#   2
-#   3,R,U
-#   2
-#   2,R
-#   1
-#   7,R,D
-#   5,R,D,X
-#  10
-
-
    3,R,D
    5,R,U,X
    2,R
@@ -848,8 +779,8 @@ EndStunPause
    1,U
    1
    5,R,D,X
-StunPause
    1
+StunPause
    3,R
 EndStunPause
    1,R,U
@@ -1153,9 +1084,8 @@ EndStunPause
    1,R,K
    1,R,J
    5,R,U,X
-   1,R,U
+   2,R,U
 StunPause
-   1,R,U
    1,R
    2,U
    2
@@ -1182,11 +1112,11 @@ EndStunPause
    5,U
    1,R,U
    1,L,U
-   7,U
+   6,U
 StunPause
-   3,U
+   4,U
    1,R,U
-SkipInput,3,1
+SkipInput,3,2
    5,U,Z
   10,U
    6,L,U
@@ -1599,7 +1529,7 @@ EndStunPause
  115
   40
 
-#lvl_c-he]art
+#lvl_c-heart
   71
    4,R,X
    3,R,J
@@ -1633,4 +1563,4 @@ EndStunPause
    2,D
    1
 
-ChapterTime: 2:27.237(8661)
+ChapterTime: 2:27.118(8654)
