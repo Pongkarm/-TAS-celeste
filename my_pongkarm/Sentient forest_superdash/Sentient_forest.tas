@@ -1,4 +1,4 @@
-RecordCount: 1707
+RecordCount: 1751
 console load Spooooky/SentientForest/Forest
 Set,SuperDashing,true
    1
@@ -1511,21 +1511,23 @@ EndStunPause
    5,L,U,X
   13,U
    5
-   7,L,J
+  10,L,J
    5,U,X
    2,R,U
-  16,U
-  10,J
-  23,U,X
-  14,U,Z
-   5,L,U
-   2,R,U
-   1
-   1,R,U
-  18,R,J
-  13,L,K
+  14,U
+   4,J
+  14,R,J
+   6,R,K
+   5,U,X
+   5,R,U
+   4,U
+   2,L,U
+   2
+   3,R,U
+   2,L,U
+  15,R,J
+  23,U,Z
   12,R,J
-   6,L,K
  115
   40
 
@@ -1543,7 +1545,7 @@ EndStunPause
    5,R,U,X
    5,U
    6,R
- 100
+  85
    2,D
    2
    2,D
@@ -1561,6 +1563,6 @@ EndStunPause
    2,D
    2
    2,D
-   1
+  16
 
-ChapterTime: 2:27.118(8654)
+ChapterTime: 2:26.999(8647)
