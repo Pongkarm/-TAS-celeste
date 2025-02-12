@@ -1,7 +1,7 @@
 # Into The Jungle
 # https://gamebanana.com/mods/292719
 
-console, load, Into The Jungle/ch3
+console load "Into The Jungle/ch3"
    1
 
 Set,SuperDashing,true
@@ -144,35 +144,30 @@ Set,SuperDashing,true
 
 #lvl_a_10
    2,R,U
-   1
+   2,R
    1,R,D
-   4
-   1,R,D
-   1,R,D
-   1
+   9,R
+   5,R,D
    5,R,U,X
-   1,U
-  10
-   1,R
-   1
+   4,U
+   2
    2,R,U
+   4,R
+   1,R,U
    1
-   1,R
-   4,R,J,G
   40
 
 #lvl_a_11
-   5,R,J
-   5,U,X
-  10,U
    4,R,U
-   3,L,U
-   1
-   4,L,J,G
+   2,R
+   5,U,X
+  10,R,U
+   2,U
   40
 
 #lvl_a_12
-   9,L,J
+   6,R,J
+   4,L,J
   25,U,X
   15,R,J,G
   29,R
@@ -1142,11 +1137,10 @@ Set,SuperDashing,true
    2,R
    5,R,U,X
    4
-   4,U
+   5,U
 StunPause
-   3,U
-   4,L,U
-   2,L,U
+   2,U
+   6,L,U
    2,R
 EndStunPause
    2,R
@@ -1190,10 +1184,11 @@ EndStunPause
   10
    3,R,D
    1,R
-   5,R,D
+   4,R,D
 StunPause
    9,R,D
 EndStunPause
+   1,R,D
    1,R,J
    5,R,U,X
    7,U
@@ -1241,4 +1236,4 @@ EndStunPause
   18
 
 
-ChapterTime: 1:40.045(5885)
+ChapterTime: 1:39.739(5867)
