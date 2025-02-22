@@ -205,8 +205,8 @@ Set,SuperDashing,true
    1,R,J,G
    9,R
   40
-**
-{#lvl_a_14
+
+#lvl_a_14
    2,R
    5,R,D,X
    3,R
@@ -349,7 +349,7 @@ Set,SuperDashing,true
   11,L,J
    9,L,U,X
   16,U
-  14,L,J,G,P
+  14,L,J,G
   15,L
    4,L,D,X
   11,L
@@ -409,6 +409,7 @@ Set,SuperDashing,true
    4,L,U
   12,J
   40
+
 #lvl_b_11
    9,L
    7,L,J,G
@@ -580,54 +581,31 @@ Set,SuperDashing,true
   40
 
 #lvl_c_04
-  15,U
-   1
+  16,U
    5,R,U,X
-   1,R,U
-   2,R,U
-   2
+   3,R,U
+   2,R
+   1
   40,R,D
 
-#lvl_c_06
-   3
-   1,R
-   1,R,D
-   2,R,D
-   1
-   5,R,D,X
-   5,D
-   1
-   1,R
-   3
-   2
-  19,R,J,G
-   2,R,U,J,G
-   7,R,K,G
-  12,L,K,G
-   7,R,J,G
-   2,R
-  12,R,Z
+#lvl_c_06]
+  18,R,D
+   5,R,U,X
+   2,U
+  10,G
+   1,R,J,G
+   5,R,U,Z
+   5,R,D
    2,R,J,G
-  35,R
-   5,L,D,X
-   1,L,D
-   1,R,J
-   8,R
+  16,R
   40
 
 #lvl_c_07
-   1,R,J
-   5,R,D,X
-   3,U
-   1
-   3,U
-   4,U
-   1
-   1,R
-   1
-   3,R,D
-   2
-  33,R,D
+   1,R,D
+   5,R,X
+  19,R
+  22,D
+   5,R,D
    3,R,J
    6,R
    5,R,U,X
@@ -638,10 +616,9 @@ Set,SuperDashing,true
    2,U
   11,R
    5,R,D
-   3
    7,R
   13,R,D
-   3
+   6,D
    5,R,Z
   10
    3
@@ -652,21 +629,25 @@ Set,SuperDashing,true
    3
    2,R,U
   23,U,X
-   5,L,J,G
+   5,R,J,G
   40
+
 #lvl_c_08
-   2,R
+   3,R
    1,R,J,G
    6,R,K,G
    5,R,J,G
-  13,R,K,G
+  12,R,K,G
    3,L,J
    2,R,J
   10,J
   10,U,X
    1,R,U
-  18,U,X
-  24,R,J,G
+   8,U,X
+   1,L,U
+   9,U
+  21,R,J,G
+   3,L,J
    3
    5,L,U,X
    2,L
@@ -682,15 +663,13 @@ Set,SuperDashing,true
    2,R
    3,U
    1
-   8,U
-   2,L,U
-   2
+  12,U,X
   19,R,J,G
   15,R,K,G
   15,R,J,G
   13,L,K
   12,R,J
-   4,R,K,G
+   5,R,K,G
   40
 
 #lvl_c_09
@@ -744,6 +723,7 @@ Set,SuperDashing,true
   15,K,G
    2,L,J,G
   40
+
 #lvl_c_10
   11,L,J,G
   14,L,D,Z
@@ -1172,4 +1152,4 @@ EndStunPause
   18
 
 
-ChapterTime: 1:36.288(5664)
+ChapterTime: 1:35.064(5592)
